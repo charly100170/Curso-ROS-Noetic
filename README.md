@@ -1,12 +1,10 @@
-# [Título del trabajo/tarea/(módulo del proyecto)] 
+# [Programación en Python y control de versiones en Git/GitHub/Tarea 1] 
 
 
 | Código | Description |
 | ------:| ----------- |
-| ***Asignatura*** | Código del Trabajo o Número de Tarea | 
-| **TSR-2022-I** | Tarea *01 ... n* |
-| **Robotica-2022-I**  | Tarea *01 ... n* |
-| **IT102321-C002** | Sistema Ciber-Físico - Proyecto - Módulo |
+| ***Asignatura*** | Curso de ROS | 
+| **TSR-2022-I** | Tarea *01n* |
 
 ## Contenido
 
@@ -19,7 +17,7 @@
 
 ## Objetivo
 
-Redacción del objetivo del trabajo o texto que describe a la tarea (_según sea el caso_).
+Desarrollar las capacidades necesarias para la programación de robots en ROS Noetic.
 
 ## Introducción
 
